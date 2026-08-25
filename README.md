@@ -4,3 +4,7 @@ Throwaway sandbox repo for manually testing [MergeOrDie](https://github.com/Fort
 end to end against real GitHub PRs, real CI status, and real merges.
 
 Not a real project — safe to ignore or delete.
+
+## License
+
+MIT.
